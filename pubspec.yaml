@@ -38,7 +38,7 @@ dependencies:
 
 flutter_native_splash:
   color: '#000000'
-  image: 'assets/images/tok.png'
+  image: 'assets/images/tik.png'
 
 flutter_icons:
   android: "launcher_icon"
